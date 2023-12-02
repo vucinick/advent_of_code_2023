@@ -52,4 +52,4 @@ python3 Day_xx/dayxx.py
 | 25  |                |       |
 
 ## Credit
-This Markdown was inspired by [orfeasa](https://github.com/orfeasa)'s Markdown. Badges, Day 1 and Day 2 Markdowns were inspired by (FranciscoTorreblanca)[https://github.com/FranciscoTorreblanca]. Python code is original - which can be seen by the messiness of it and by not having an optimal solutions 😁
+This Markdown was inspired by [orfeasa](https://github.com/orfeasa)'s Markdown. Badges, Day 1 and Day 2 Markdowns were inspired by [FranciscoTorreblanca](https://github.com/FranciscoTorreblanca). Python code is original - which can be seen by the messiness of it and by not having an optimal solutions 😁
