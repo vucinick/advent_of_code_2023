@@ -28,7 +28,7 @@ python3 Day_xx/dayxx.py
 | 01  | Trebuchet?!    | ⭐⭐   |
 | 02  | Cube Conundrum | ⭐⭐   |
 | 03  | Gear Ratios    |       |
-| 04  | Scratchcards   | ⭐    |
+| 04  | Scratchcards   | ⭐⭐   |
 | 05  |                |       |
 | 06  |                |       |
 | 07  |                |       |
